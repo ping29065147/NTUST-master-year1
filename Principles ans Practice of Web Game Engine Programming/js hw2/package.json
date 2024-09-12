@@ -1,0 +1,53 @@
+{
+    "scripts": {
+        "dev": "nodemon",
+        "build": "tsc",
+        "start": "npm run build && node -r dotenv/config -r module-alias/register ./dist/bin/server.js",
+        "client": "npm run build && node -r dotenv/config -r module-alias/register ./dist/bin/connect.js",
+        "test": "jest"
+    },
+    "port": 8080,
+    "dependencies": {
+        "@types/debug": "^4.1.12",
+        "@typescript-eslint/eslint-plugin": "^7.3.1",
+        "crypto-js": "^4.2.0",
+        "debug": "^4.3.4",
+        "dotenv": "^16.4.5",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.29.1",
+        "fs-extra": "^11.2.0",
+        "module-alias": "^2.2.3",
+        "node-fetch": "^3.3.2",
+        "websocket": "^1.0.34"
+    },
+    "devDependencies": {
+        "@babel/preset-typescript": "^7.23.3",
+        "@types/crypto-js": "^4.2.2",
+        "@types/fs-extra": "^11.0.4",
+        "@types/jest": "^29.5.12",
+        "@types/module-alias": "^2.0.4",
+        "@types/node": "^20.11.25",
+        "@types/websocket": "^1.0.10",
+        "@typescript-eslint/parser": "^5.62.0",
+        "eslint": "^8.57.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-import-resolver-typescript": "^3.6.1",
+        "jest": "^29.7.0",
+        "nodemon": "^3.1.0",
+        "ts-jest": "^29.1.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.2"
+    },
+    "_moduleAliases": {
+        "@": "dist",
+        "@core": "dist/core"
+    },
+    "jest": {
+        "preset": "ts-jest",
+        "testEnvironment": "node",
+        "testRegex": "spec/.*\\.spec\\.ts$",
+        "moduleNameMapper": {
+            "@/(.*)": "<rootDir>/src/$1"
+        }
+    }
+}

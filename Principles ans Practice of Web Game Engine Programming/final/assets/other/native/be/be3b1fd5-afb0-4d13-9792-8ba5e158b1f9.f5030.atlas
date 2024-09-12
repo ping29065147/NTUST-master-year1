@@ -1,0 +1,664 @@
+
+spinegirl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spinegirl/arm_L_1_01
+  rotate: true
+  xy: 388, 160
+  size: 35, 126
+  orig: 35, 126
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_1_cloth
+  rotate: true
+  xy: 181, 2
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_2_01
+  rotate: false
+  xy: 702, 204
+  size: 94, 36
+  orig: 94, 36
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_2_deco_1
+  rotate: true
+  xy: 747, 102
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_2_deco_2
+  rotate: false
+  xy: 867, 655
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_01
+  rotate: false
+  xy: 776, 244
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_01_b
+  rotate: true
+  xy: 701, 158
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_01_c
+  rotate: true
+  xy: 849, 654
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_01_d
+  rotate: false
+  xy: 889, 666
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_01_e
+  rotate: false
+  xy: 754, 189
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_02
+  rotate: true
+  xy: 223, 40
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_02_F
+  rotate: true
+  xy: 614, 160
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+spinegirl/arm_L_3_03
+  rotate: false
+  xy: 296, 71
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_1_01
+  rotate: false
+  xy: 2, 6
+  size: 130, 39
+  orig: 130, 39
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_1_cloth
+  rotate: false
+  xy: 536, 36
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_2_01
+  rotate: true
+  xy: 516, 160
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_01
+  rotate: true
+  xy: 571, 69
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_01_b
+  rotate: false
+  xy: 273, 41
+  size: 21, 72
+  orig: 21, 72
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_02
+  rotate: false
+  xy: 296, 42
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_02_b
+  rotate: false
+  xy: 776, 651
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_03
+  rotate: true
+  xy: 275, 2
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+spinegirl/arm_R_3_04
+  rotate: false
+  xy: 571, 33
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+spinegirl/ear_L
+  rotate: true
+  xy: 889, 680
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+spinegirl/ear_R
+  rotate: false
+  xy: 798, 192
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+spinegirl/face
+  rotate: false
+  xy: 398, 197
+  size: 138, 165
+  orig: 138, 165
+  offset: 0, 0
+  index: -1
+spinegirl/face_eye_ball_L
+  rotate: false
+  xy: 678, 120
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+spinegirl/face_eye_ball_R
+  rotate: false
+  xy: 431, 56
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+spinegirl/face_eye_iris_R_1
+  rotate: true
+  xy: 720, 100
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+spinegirl/face_eye_iris_R_2
+  rotate: false
+  xy: 654, 83
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+spinegirl/face_eye_iris_R_3
+  rotate: false
+  xy: 857, 706
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyebrow_L
+  rotate: true
+  xy: 938, 684
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyebrow_R
+  rotate: true
+  xy: 685, 158
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_L_01
+  rotate: false
+  xy: 361, 570
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_L_01_S
+  rotate: true
+  xy: 867, 668
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_L_02
+  rotate: false
+  xy: 361, 557
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_R_01
+  rotate: true
+  xy: 754, 168
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_R_01_S
+  rotate: false
+  xy: 780, 596
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelash_R_02
+  rotate: true
+  xy: 753, 152
+  size: 14, 47
+  orig: 14, 47
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelid_L
+  rotate: true
+  xy: 361, 588
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+spinegirl/face_eyelid_R
+  rotate: true
+  xy: 811, 655
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+spinegirl/face_mouth_inside
+  rotate: true
+  xy: 701, 176
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+spinegirl/face_mouth_lowerlip
+  rotate: true
+  xy: 776, 304
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+spinegirl/face_mouth_lowerlip_flat
+  rotate: true
+  xy: 809, 706
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+spinegirl/face_mouth_upperlip
+  rotate: true
+  xy: 896, 727
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+spinegirl/face_mouth_upperlip_flat
+  rotate: true
+  xy: 896, 699
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+spinegirl/face_nose
+  rotate: true
+  xy: 216, 2
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+spinegirl/face_tooth
+  rotate: true
+  xy: 747, 139
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+spinegirl/face_tooth_below
+  rotate: false
+  xy: 678, 101
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+spinegirl/hair
+  rotate: true
+  xy: 777, 792
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+spinegirl/hair_S
+  rotate: true
+  xy: 804, 541
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+spinegirl/hair_bangs
+  rotate: false
+  xy: 538, 212
+  size: 80, 167
+  orig: 80, 167
+  offset: 0, 0
+  index: -1
+spinegirl/hair_bangs_S
+  rotate: false
+  xy: 654, 102
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+spinegirl/hair_ponytail
+  rotate: false
+  xy: 518, 381
+  size: 242, 96
+  orig: 242, 96
+  offset: 0, 0
+  index: -1
+spinegirl/hair_ribbon
+  rotate: true
+  xy: 780, 541
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+spinegirl/item_back
+  rotate: false
+  xy: 518, 479
+  size: 227, 160
+  orig: 227, 160
+  offset: 0, 0
+  index: -1
+spinegirl/item_back_straps_L
+  rotate: true
+  xy: 351, 28
+  size: 19, 62
+  orig: 19, 62
+  offset: 0, 0
+  index: -1
+spinegirl/item_back_straps_R
+  rotate: false
+  xy: 747, 541
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+spinegirl/item_back_straps_R_1
+  rotate: true
+  xy: 747, 123
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+spinegirl/item_back_straps_R_2
+  rotate: false
+  xy: 538, 197
+  size: 109, 13
+  orig: 109, 13
+  offset: 0, 0
+  index: -1
+spinegirl/item_front_1
+  rotate: true
+  xy: 762, 390
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+spinegirl/item_front_1_S
+  rotate: false
+  xy: 716, 125
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+spinegirl/item_front_2
+  rotate: false
+  xy: 975, 697
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+spinegirl/item_front_straps_L
+  rotate: false
+  xy: 272, 115
+  size: 22, 133
+  orig: 22, 133
+  offset: 0, 0
+  index: -1
+spinegirl/item_front_straps_R
+  rotate: false
+  xy: 750, 652
+  size: 24, 137
+  orig: 24, 137
+  offset: 0, 0
+  index: -1
+spinegirl/leg_L
+  rotate: false
+  xy: 361, 630
+  size: 124, 392
+  orig: 124, 392
+  offset: 0, 0
+  index: -1
+spinegirl/leg_R
+  rotate: true
+  xy: 487, 931
+  size: 91, 411
+  orig: 91, 411
+  offset: 0, 0
+  index: -1
+spinegirl/pants_L
+  rotate: true
+  xy: 857, 715
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+spinegirl/torso_1
+  rotate: false
+  xy: 2, 99
+  size: 268, 149
+  orig: 268, 149
+  offset: 0, 0
+  index: -1
+spinegirl/torso_deco_1
+  rotate: true
+  xy: 134, 2
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Guide_skin2/arm_L_1_cloth
+  rotate: true
+  xy: 747, 479
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+Guide_skin2/arm_R_1_cloth
+  rotate: false
+  xy: 480, 95
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+Guide_skin2/balt_M
+  rotate: false
+  xy: 384, 55
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Guide_skin2/bow_L_D1
+  rotate: true
+  xy: 475, 28
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Guide_skin2/bow_L_U
+  rotate: false
+  xy: 652, 161
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Guide_skin2/bow_R_D1
+  rotate: true
+  xy: 475, 61
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+Guide_skin2/bow_R_D2
+  rotate: false
+  xy: 340, 2
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+Guide_skin2/bow_R_U
+  rotate: false
+  xy: 388, 103
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+Guide_skin2/hair
+  rotate: true
+  xy: 702, 242
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+Guide_skin2/hair_back
+  rotate: false
+  xy: 2, 250
+  size: 287, 304
+  orig: 287, 304
+  offset: 0, 0
+  index: -1
+Guide_skin2/hair_bangs
+  rotate: false
+  xy: 620, 212
+  size: 80, 167
+  orig: 80, 167
+  offset: 0, 0
+  index: -1
+Guide_skin2/hat_B
+  rotate: false
+  xy: 487, 791
+  size: 288, 138
+  orig: 288, 138
+  offset: 0, 0
+  index: -1
+Guide_skin2/hat_F
+  rotate: true
+  xy: 291, 261
+  size: 293, 105
+  orig: 293, 105
+  offset: 0, 0
+  index: -1
+Guide_skin2/hat_S
+  rotate: true
+  xy: 351, 49
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Guide_skin2/hat_U
+  rotate: false
+  xy: 398, 364
+  size: 118, 264
+  orig: 118, 264
+  offset: 0, 0
+  index: -1
+Guide_skin2/pumpkin
+  rotate: false
+  xy: 296, 113
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+Guide_skin2/pumpkin_face
+  rotate: true
+  xy: 851, 867
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+Guide_skin2/pumpkin_face_dark
+  rotate: true
+  xy: 851, 803
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+Guide_skin2/skirt
+  rotate: false
+  xy: 2, 556
+  size: 357, 466
+  orig: 357, 466
+  offset: 0, 0
+  index: -1
+Guide_skin2/skirt_L
+  rotate: true
+  xy: 2, 47
+  size: 50, 219
+  orig: 50, 219
+  offset: 0, 0
+  index: -1
+Guide_skin2/skirt_R
+  rotate: true
+  xy: 900, 755
+  size: 267, 122
+  orig: 267, 122
+  offset: 0, 0
+  index: -1
+Guide_skin2/torso_1
+  rotate: false
+  xy: 487, 641
+  size: 261, 148
+  orig: 261, 148
+  offset: 0, 0
+  index: -1
+Guide_skin2/torso_collar_B
+  rotate: true
+  xy: 296, 198
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+Guide_skin2/torso_collar_L
+  rotate: false
+  xy: 626, 84
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+Guide_skin2/torso_collar_R
+  rotate: false
+  xy: 776, 693
+  size: 31, 96
+  orig: 31, 96
+  offset: 0, 0
+  index: -1
